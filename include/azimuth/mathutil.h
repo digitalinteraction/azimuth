@@ -1,7 +1,7 @@
 // Simple 4x4 Matrix functions
 // Dan Jackson, 2011-2013
 
-#ifndef _MATHUTL_H
+#ifndef _MATHUTIL_H
 #define _MATHUTIL_H
 
 #ifdef __cplusplus
